@@ -1,0 +1,5 @@
+![Screenshot 2023-08-13 193728](https://github.com/malto101/Basic_stm32_PCB/assets/70323154/0c96ff08-00cf-49c1-a409-dce9f99fb95b)
+![Screenshot 2023-08-13 193653](https://github.com/malto101/Basic_stm32_PCB/assets/70323154/71e02b89-6588-4286-890f-fbb976a994b2)
+![Screenshot 2023-08-13 193625](https://github.com/malto101/Basic_stm32_PCB/assets/70323154/d9e2949f-cdff-4279-805c-2a59fdc2093d)
+![Screenshot 2023-08-13 193514](https://github.com/malto101/Basic_stm32_PCB/assets/70323154/3eaeb1cc-433d-475e-aaa8-130f685deccf)
+![Screenshot 2023-08-13 193556](https://github.com/malto101/Basic_stm32_PCB/assets/70323154/de71f73d-6dd5-41e9-a4ba-c1a47e25a57b)
