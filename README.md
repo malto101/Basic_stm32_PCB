@@ -1,6 +1,8 @@
 # STM32F4 MPU6050 USB-JST PCB
 
-![PCB Preview]()
+![PCB Preview](https://github.com/malto101/Basic_stm32_PCB/assets/70323154/79375607-8127-4bda-95ea-dc43b325059c)
+![PCB Preview_1](https://github.com/malto101/Basic_stm32_PCB/assets/70323154/d85170a5-1563-4d5f-b150-83c8c056a0ae)
+
 
 ## Features
 
@@ -16,9 +18,9 @@
 
 ## Repository Contents
 
-- **pcb_layout_files/:** This directory contains the KiCAD project files for the PCB layout, including schematic and PCB layout design.
+- **stm32tut.SchDoc/:** This File contains the Altium project files for the PCB layout, including the schematic and PCB layout design.
 
-- **gerber_files/:** The generated Gerber files necessary for PCB manufacturing are located in this directory.
+- **stm32BomDoc/:** The generated BOM files necessary for PCB manufacturing are located in this directory.
 
 - **datasheets/:** Relevant datasheets for the STM32F4 MCU, MPU6050 sensor, and other components used on the board can be found here.
 
@@ -28,9 +30,9 @@
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine:
 
-2. **View Design Files:** Navigate to the `pcb_layout_files/` directory to access the KiCAD project files. Open the schematic and PCB layout using KiCAD software.
+2. **View Design Files:** Navigate to the `PCB1.PcbDoc/` directory to access the Altium project files. Open the schematic and PCB layout using KiCAD software.
 
-3. **Manufacturing:** If you wish to manufacture the PCB, use the Gerber files located in the `gerber_files/` directory. Upload these files to your preferred PCB manufacturer.
+3. **Manufacturing:** If you wish to manufacture the PCB, generate the Gerber files by using the directory. Upload these files to your preferred PCB manufacturer.
 
 4. **Assembly:** Refer to the PCB layout and the component placement guides to assemble the components onto the PCB. Follow the datasheets for correct connections and soldering instructions.
 
