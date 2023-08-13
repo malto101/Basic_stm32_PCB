@@ -1,8 +1,9 @@
 # STM32F4 MPU6050 USB-JST PCB
 
-![PCB Preview](https://github.com/malto101/Basic_stm32_PCB/assets/70323154/79375607-8127-4bda-95ea-dc43b325059c)
-![PCB Preview_1](https://github.com/malto101/Basic_stm32_PCB/assets/70323154/d85170a5-1563-4d5f-b150-83c8c056a0ae)
-
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/malto101/Basic_stm32_PCB/assets/70323154/79375607-8127-4bda-95ea-dc43b325059c" alt="PCB Preview" width="50%">
+  <img src="https://github.com/malto101/Basic_stm32_PCB/assets/70323154/d85170a5-1563-4d5f-b150-83c8c056a0ae" alt="PCB Preview_1" width="50%">
+</div>
 
 ## Features
 
@@ -12,7 +13,7 @@
 
 - **USB Power:** The USB connector allows the board to be powered directly from a USB source, simplifying the power supply setup.
 
-- **JST Connector:** The JST connector provides a convenient interface for debugging and programming the STM32F4 MCU.
+- **JST Connector:** The JST connector provides a convenient interface for the STM32F4 MCU.
 
 - **SW Probing:** The integrated TC2030-NL connector facilitates Serial Wire debugging and probing, enabling efficient testing and development.
 
@@ -28,7 +29,7 @@
 
 ## Getting Started
 
-1. **Clone the Repository:** Start by cloning this repository to your local machine:
+1. **Clone the Repository:** Start by cloning this repository to your local machine.
 
 2. **View Design Files:** Navigate to the `PCB1.PcbDoc/` directory to access the Altium project files. Open the schematic and PCB layout using KiCAD software.
 
@@ -36,6 +37,4 @@
 
 4. **Assembly:** Refer to the PCB layout and the component placement guides to assemble the components onto the PCB. Follow the datasheets for correct connections and soldering instructions.
 
-5. **Testing:** Once the PCB is assembled, power it using the USB connector. Use the JST connector for debugging and programming the STM32F4 MCU. The TC2030-NL connector can be used for SW probing and testing.
-
-
+5. **Testing:** Once the PCB is assembled, power it using the USB connector. Use the JST connector for interfacing with the STM32F4 MCU. The TC2030-NL connector can be used for SW probing and testing.
